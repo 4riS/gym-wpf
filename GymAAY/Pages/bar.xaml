@@ -1,0 +1,63 @@
+﻿<Page x:Class="GymAAY.Pages.bar"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GymAAY.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="755"
+      Title="bar">
+
+    <Grid Unloaded="Grid_Unloaded">
+        <Grid.Background>
+            <ImageBrush ImageSource="../Images/bar.jpg"/>
+        </Grid.Background>
+        <Button ToolTip="Πατήστε για να κλείσετε την εφαρμογή" BorderThickness="0" Height="40" x:Name="button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="41" Margin="698,14,0,0" Style="{StaticResource MyButton}" Click="button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/closeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Μάθετε πληροφορίες για τους δημιουργούς της εφαρμογής" BorderThickness="0" x:Name="button1" HorizontalAlignment="Left" Height="40" Margin="609,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button1_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/infoButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Πατήστε για να ανοίξετε την βοήθεια" BorderThickness="0" x:Name="button2" HorizontalAlignment="Left" Height="40" Margin="565,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button2_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/helpButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Ελαχιστοποίηση εφαρμογής" BorderThickness="0" x:Name="button3" HorizontalAlignment="Left" Height="40" Margin="654,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button3_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/minimizeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="image" Source="../Images/waitress.png" HorizontalAlignment="Left" Height="378" Margin="269,101,0,0" VerticalAlignment="Top" Width="132"/>
+        <Image x:Name="image1" Source="../Images/dialogBg.png" HorizontalAlignment="Left" Height="84" Margin="392,54,0,0" VerticalAlignment="Top" Width="227"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="413,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top">Γεια σας, τι να σας προσφερουμε;</TextBlock>
+        <Button x:Name="button4" Visibility="Visible" Content="Χυμό Πορτοκάλι" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="406,190,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button4_Click" />
+        <Button x:Name="button6" Visibility="Visible" Content="Μπάρα Δημητριακών" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="406,248,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button6_Click" />
+        <Button x:Name="button5" Visibility="Visible" Content="Επιστροφή" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="583,493,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.734,1.009" Background="White" Click="button5_Click" />
+        <Image x:Name="image2" Source="../Images/radio.png" HorizontalAlignment="Left" Height="100" Margin="645,315,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button ToolTip="Ανοιχτό Ράδιο" Visibility="Visible" BorderThickness="0" x:Name="button11" HorizontalAlignment="Left" Height="40" Margin="703,321,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button11_Click" RenderTransformOrigin="-1.5,1.7">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/onButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Κλειστό Ράδιο" Visibility="Visible" BorderThickness="0" x:Name="button12" HorizontalAlignment="Left" Height="40" Margin="703,321,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button12_Click" RenderTransformOrigin="0.5,1.583">
+            <Button.Background>
+                <ImageBrush ImageSource="/GymAAY;component/Images/offButton.png"/>
+            </Button.Background>
+        </Button>
+        <TextBlock Foreground="White" x:Name="textBlock1"   Visibility="Collapsed" HorizontalAlignment="Left" Margin="18,177,0,0" TextWrapping="Wrap" Text="Όνομα" VerticalAlignment="Top" Background="Transparent" Width="88"/>
+        <TextBlock Foreground="White" x:Name="textBlock2"  Visibility="Collapsed" HorizontalAlignment="Left" Margin="18,212,0,0" TextWrapping="Wrap" Text="Αριθμός Κάρτας" VerticalAlignment="Top" Background="Transparent" Width="88"/>
+        <TextBlock Foreground="White" x:Name="textBlock3"  Visibility="Collapsed" HorizontalAlignment="Left" Margin="18,248,0,0" TextWrapping="Wrap" Text="Ημ. Λήξης" VerticalAlignment="Top" Background="Transparent" Width="88"/>
+        <TextBlock Foreground="White" x:Name="textBlock4"  Visibility="Collapsed" HorizontalAlignment="Left" Margin="18,281,0,0" TextWrapping="Wrap" Text="CCV" VerticalAlignment="Top" Background="Transparent" Width="88"/>
+        <TextBox x:Name="textBox" Visibility="Collapsed" HorizontalAlignment="Left" Height="17" Margin="129,176,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="119"/>
+        <TextBox x:Name="textBox1" Visibility="Collapsed" HorizontalAlignment="Left" Height="17" Margin="129,281,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="119"/>
+        <TextBox x:Name="textBox2" Visibility="Collapsed" HorizontalAlignment="Left" Height="17" Margin="129,248,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="119"/>
+        <TextBox x:Name="textBox3" Visibility="Collapsed" HorizontalAlignment="Left" Height="17" Margin="129,212,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="119"/>
+        <Button x:Name="button8" Visibility="Collapsed" Content="Πληρωμή" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="48,412,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.734,1.009" Background="White" Click="button8_Click" />
+        <Button x:Name="button9" Visibility="Collapsed" Content="Με κάρτα" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="406,248,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button9_Click" />
+    </Grid>
+</Page>

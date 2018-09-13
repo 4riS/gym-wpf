@@ -1,0 +1,109 @@
+﻿<Page x:Class="GymAAY.Pages.poolPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GymAAY.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="755"
+      Title="poolPage">
+    <Page.Resources>
+        <Storyboard x:Key="Opacity">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="textBlock">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="button6">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image5">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="textBlock5">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource Opacity}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid Loaded="Grid_Loaded">
+        <Grid.Background>
+            <ImageBrush ImageSource="../Images/poolBg.jpg"/>
+        </Grid.Background>
+        <Button ToolTip="Πατήστε για να κλείσετε την εφαρμογή" BorderThickness="0" Height="40" x:Name="button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="41" Margin="698,14,0,0" Style="{StaticResource MyButton}" Click="button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/closeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Μάθετε πληροφορίες για τους δημιουργούς της εφαρμογής" BorderThickness="0" x:Name="button1" HorizontalAlignment="Left" Height="40" Margin="609,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button1_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/infoButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Πατήστε για να ανοίξετε την βοήθεια" BorderThickness="0" x:Name="button2" HorizontalAlignment="Left" Height="40" Margin="565,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button2_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/helpButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Ελαχιστοποίηση εφαρμογής" BorderThickness="0" x:Name="button3" HorizontalAlignment="Left" Height="40" Margin="654,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button3_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/minimizeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="image" Visibility="Visible" Source="../Images/trainerMn.png" HorizontalAlignment="Left" Height="400" Margin="549,157,0,-7" VerticalAlignment="Top" Width="150"/>
+        <Image x:Name="image1" Visibility="Visible" Source="../Images/dialogBg.png" HorizontalAlignment="Left" Height="84" Margin="471,83,0,0" VerticalAlignment="Top" Width="222"/>
+        <TextBlock x:Name="textBlock" Visibility="Visible" HorizontalAlignment="Left" Margin="483,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top">Αυτή είναι η πισίνα. Κάτω αριστερά<LineBreak/>φαίνονται οι ενδείξεις, που μπορείς<LineBreak/>να πειράξεις από τον πίνακα. Αν με<LineBreak/>χρειαστείς πάτα το κουμπί !</TextBlock>
+        <Button ToolTip="Εντάξει ! Κλείσιμο διαλόγου και γυμναστή" x:Name="button6" Visibility="Visible" HorizontalAlignment="Left" Margin="389,89,0,0" VerticalAlignment="Top" Width="60" Height="60" Style="{StaticResource MyButton}" Click="button6_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/okButton.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="image2" Visibility="Visible" Source="../Images/Thermometre.png" HorizontalAlignment="Left" Height="60" Margin="-2,457,0,0" VerticalAlignment="Top" Width="60"/>
+        <TextBlock x:Name="textBlock1" Visibility="Visible" HorizontalAlignment="Left" Margin="58,481,0,0" TextWrapping="Wrap" Text="25 C" Foreground="White" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Image x:Name="image3" Visibility="Visible" Source="../Images/pool_water.png" HorizontalAlignment="Left" Height="60" Margin="110,457,0,0" VerticalAlignment="Top" Width="60"/>
+        <TextBlock x:Name="textBlock2" Visibility="Visible" HorizontalAlignment="Left" Margin="188,481,0,0" TextWrapping="Wrap" Text="Medium" Foreground="White" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Image x:Name="image4" Visibility="Visible" Source="../Images/alarm_pool.png" HorizontalAlignment="Left" Height="60" Margin="260,457,0,0" VerticalAlignment="Top" Width="60"/>
+        <TextBlock x:Name="textBlock3" Visibility="Visible" HorizontalAlignment="Left" Margin="338,481,0,0" TextWrapping="Wrap" Text="OFF" Foreground="White" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Button x:Name="button4" Visibility="Collapsed" HorizontalAlignment="Left" Margin="549,234,0,0" VerticalAlignment="Top" Width="100" Height="100" Style="{StaticResource MyButton}" Click="button4_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/pinakas.png" />
+            </Button.Background>
+        </Button>
+        <Button x:Name="button5" Visibility="Collapsed" HorizontalAlignment="Left" Margin="623,417,0,0" VerticalAlignment="Top" Width="100" Height="100" Style="{StaticResource MyButton}" Click="button5_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/gymCome.png" />
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="textBlock4" Visibility="Collapsed" HorizontalAlignment="Left" Margin="483,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top">Με φωνάξατε ; Πως να βοηθήσω ;</TextBlock>
+        <Button x:Name="button7" Visibility="Collapsed" Content="Θέλω να πάω στο ασανσέρ !" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="345,187,0,0" VerticalAlignment="Top" Width="173" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button7_Click"/>
+        <Button x:Name="button8" Visibility="Collapsed" Content="Άκυρο !" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="345,234,0,0" VerticalAlignment="Top" Width="173" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button8_Click"/>
+        <Button ToolTip="Πατήστε για να μπείτε στην πισίνα !" BorderThickness="0" x:Name="button9" Visibility="Visible" HorizontalAlignment="Left" Height="159" Margin="119,276,0,0" VerticalAlignment="Top" Width="124" Style="{StaticResource MyButton}" Click="button9_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/ladderPool.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Πατήστε για να βγείτε από την πισίνα !" BorderThickness="0" x:Name="button10" Visibility="Collapsed" HorizontalAlignment="Left" Height="159" Margin="119,276,0,0" VerticalAlignment="Top" Width="124" Style="{StaticResource MyButton}" Click="button10_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/ladderPool.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="image5" Source="../Images/dialogMiniBg.png" Visibility="Visible" HorizontalAlignment="Left" Height="84" Margin="327,172,0,0" VerticalAlignment="Top" Width="222"/>
+        <TextBlock x:Name="textBlock5" Visibility="Visible" HorizontalAlignment="Left" Margin="335,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top">Αυτή τη στιγμή στην πισίνα<LineBreak/>βρίσκονται</TextBlock>
+
+    </Grid>
+</Page>

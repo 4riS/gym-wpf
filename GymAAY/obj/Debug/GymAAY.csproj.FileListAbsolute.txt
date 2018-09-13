@@ -1,0 +1,558 @@
+c:\users\aristotelis\documents\visual studio 2015\Projects\GymAAY\GymAAY\bin\Debug\GymAAY.exe.config
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\bin\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\bin\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\MainWindow.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\startPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\App.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\GymAAY_MarkupCompile.cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\GymAAY_MarkupCompile.lref
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\MainWindow.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\startPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\GymAAY.g.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\GymAAY.Properties.Resources.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\GymAAY.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\App.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\receptionPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\receptionPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\receptionMemberPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\receptionMemberPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\elevatorPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\elevatorPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\gymGuestPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\gymGuestPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\gymMemberLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\gymMemberLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\instrumentsPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\instrumentsPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\GymAAY.csprojResolveAssemblyReference.cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\gymMemberRegister.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\gymMemberRegister.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\bikePage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\GymAAY\GymAAY\obj\Debug\Pages\bikePage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\bin\Debug\GymAAY.exe.config
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.exe
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.pdb
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\MainWindow.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\bikePage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\elevatorPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymGuestPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymMemberLogin.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymMemberRegister.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\instrumentsPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\receptionMemberPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\receptionPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\runningPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\startPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\App.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY_MarkupCompile.cache
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY_MarkupCompile.lref
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\bin\Debug\GymAAY.exe
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\bin\Debug\GymAAY.pdb
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\App.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\MainWindow.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\bikePage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\elevatorPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymGuestPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymMemberLogin.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymMemberRegister.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\instrumentsPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\receptionMemberPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\receptionPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\runningPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\startPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.g.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.Properties.Resources.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.csproj.GenerateResource.Cache
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.csprojResolveAssemblyReference.cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\MainWindow.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\bikePage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\elevatorPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\gymGuestPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\gymMemberLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\gymMemberRegister.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\instrumentsPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\receptionMemberPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\receptionPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\runningPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\startPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\App.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\GymAAY_MarkupCompile.cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\GymAAY_MarkupCompile.lref
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\App.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\MainWindow.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\bikePage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\elevatorPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\gymGuestPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\gymMemberLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\gymMemberRegister.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\instrumentsPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\receptionMemberPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\receptionPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\runningPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\startPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\GymAAY.g.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\bin\Debug\GymAAY.exe.config
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\bin\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\bin\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\GymAAY.Properties.Resources.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\GymAAY.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\cafePage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\poolPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\cafePage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\poolPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\cafeMenuPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\October\GymAAY\obj\Debug\Pages\cafeMenuPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\bin\Debug\GymAAY.exe.config
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.exe
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.pdb
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\bin\Debug\GymAAY.exe
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\bin\Debug\GymAAY.pdb
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.csprojResolveAssemblyReference.cache
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\MainWindow.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\bikePage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\cafeMenuPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\cafePage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\elevatorPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymGuestPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymMemberLogin.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymMemberRegister.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\instrumentsPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\poolPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\receptionMemberPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\receptionPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\runningPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\startPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\App.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY_MarkupCompile.cache
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY_MarkupCompile.lref
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\App.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\MainWindow.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\bikePage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\cafeMenuPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\cafePage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\elevatorPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymGuestPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymMemberLogin.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\gymMemberRegister.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\instrumentsPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\poolPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\receptionMemberPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\receptionPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\runningPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\startPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.g.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.Properties.Resources.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\GymAAY.csproj.GenerateResource.Cache
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\bar.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\bar.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\tablesPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\tablesPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\controlPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\october\GymAAY\obj\Debug\Pages\controlPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\bin\Debug\GymAAY.exe.config
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\bin\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\bin\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\MainWindow.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\bar.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\bikePage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\cafeMenuPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\cafePage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\controlPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\elevatorPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\gymGuestPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\gymMemberLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\gymMemberRegister.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\instrumentsPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\poolPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\receptionMemberPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\receptionPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\runningPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\startPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\tablesPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\App.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\GymAAY_MarkupCompile.cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\GymAAY_MarkupCompile.lref
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\App.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\MainWindow.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\bar.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\bikePage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\cafeMenuPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\cafePage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\controlPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\elevatorPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\gymGuestPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\gymMemberLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\gymMemberRegister.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\instrumentsPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\poolPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\receptionMemberPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\receptionPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\runningPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\startPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\tablesPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\GymAAY.g.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\GymAAY.Properties.Resources.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\GymAAY.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\pinakasPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\pinakasPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\poolLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\poolLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\poolLoginLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\poolLoginLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\poolRegister.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\Pages\poolRegister.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Gym\GymAAY\obj\Debug\GymAAY.csprojResolveAssemblyReference.cache
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\bin\Debug\GymAAY.exe.config
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\GymAAY.exe
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\GymAAY.pdb
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\bin\Debug\GymAAY.exe
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\bin\Debug\GymAAY.pdb
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\GymAAY.csprojResolveAssemblyReference.cache
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\MainWindow.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\bar.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\bikePage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\cafeMenuPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\cafePage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\controlPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\elevatorPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\gymGuestPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\gymMemberLogin.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\gymMemberRegister.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\instrumentsPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\pinakasPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\poolLogin.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\poolLoginLogin.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\poolPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\poolRegister.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\receptionMemberPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\receptionPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\runningPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\startPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\tablesPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\App.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\GymAAY_MarkupCompile.cache
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\GymAAY_MarkupCompile.lref
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\App.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\MainWindow.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\bar.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\bikePage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\cafeMenuPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\cafePage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\controlPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\elevatorPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\gymGuestPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\gymMemberLogin.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\gymMemberRegister.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\instrumentsPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\pinakasPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\poolLogin.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\poolLoginLogin.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\poolPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\poolRegister.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\receptionMemberPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\receptionPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\runningPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\startPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\Pages\tablesPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\GymAAY.g.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\GymAAY.Properties.Resources.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct\GymAAY\obj\Debug\GymAAY.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\bin\Debug\GymAAY.exe.config
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\bin\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\bin\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\MainWindow.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\bar.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\bikePage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\cafeMenuPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\cafePage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\controlPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\elevatorPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\gymGuestPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\gymMemberLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\gymMemberRegister.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\instrumentsPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\pinakasPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\poolLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\poolLoginLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\poolPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\poolRegister.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\receptionMemberPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\receptionPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\runningPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\startPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\tablesPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\App.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\GymAAY_MarkupCompile.cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\GymAAY_MarkupCompile.lref
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\App.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\MainWindow.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\bar.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\bikePage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\cafeMenuPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\cafePage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\controlPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\elevatorPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\gymGuestPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\gymMemberLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\gymMemberRegister.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\instrumentsPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\pinakasPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\poolLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\poolLoginLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\poolPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\poolRegister.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\receptionMemberPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\receptionPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\runningPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\startPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\Pages\tablesPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\GymAAY.g.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\GymAAY.Properties.Resources.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\GymAAY.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\GymAAY_Content.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\bin\Debug\Music\Paganini.wav
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\obj\Debug\GymAAY.csprojResolveAssemblyReference.cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Virvou\GymAAY\bin\Debug\Music\wind-1.wav
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\bin\Debug\GymAAY.exe.config
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\GymAAY.exe
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\GymAAY.pdb
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\bin\Debug\Music\wind-1.wav
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\bin\Debug\Music\Paganini.wav
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\bin\Debug\GymAAY.exe
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\bin\Debug\GymAAY.pdb
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\GymAAY.csprojResolveAssemblyReference.cache
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\MainWindow.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\bar.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\bikePage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\cafeMenuPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\cafePage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\controlPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\elevatorPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\gymGuestPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\gymMemberLogin.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\gymMemberRegister.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\instrumentsPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\pinakasPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\poolLogin.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\poolLoginLogin.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\poolPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\poolRegister.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\receptionMemberPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\receptionPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\runningPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\startPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\tablesPage.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\App.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\GymAAY_Content.g.cs
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\GymAAY_MarkupCompile.cache
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\GymAAY_MarkupCompile.lref
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\App.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\MainWindow.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\bar.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\bikePage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\cafeMenuPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\cafePage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\controlPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\elevatorPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\gymGuestPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\gymMemberLogin.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\gymMemberRegister.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\instrumentsPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\pinakasPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\poolLogin.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\poolLoginLogin.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\poolPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\poolRegister.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\receptionMemberPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\receptionPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\runningPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\startPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\Pages\tablesPage.baml
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\GymAAY.g.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\GymAAY.Properties.Resources.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\oct5\GymAAY\obj\Debug\GymAAY.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\bin\Debug\GymAAY.exe.config
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\bin\Debug\Music\wind-1.wav
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\bin\Debug\Music\Paganini.wav
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\bin\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\bin\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\MainWindow.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\bar.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\bikePage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\cafeMenuPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\cafePage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\controlPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\elevatorPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\gymGuestPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\gymMemberLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\gymMemberRegister.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\instrumentsPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\pinakasPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\poolLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\poolLoginLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\poolPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\poolRegister.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\receptionMemberPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\receptionPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\runningPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\startPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\tablesPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\App.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\GymAAY_Content.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\GymAAY_MarkupCompile.cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\GymAAY_MarkupCompile.lref
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\App.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\MainWindow.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\bar.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\bikePage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\cafeMenuPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\cafePage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\controlPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\elevatorPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\gymGuestPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\gymMemberLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\gymMemberRegister.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\instrumentsPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\pinakasPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\poolLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\poolLoginLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\poolPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\poolRegister.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\receptionMemberPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\receptionPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\runningPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\startPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\Pages\tablesPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\GymAAY.g.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\GymAAY.Properties.Resources.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\GymAAY.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\obj\Debug\GymAAY.csprojResolveAssemblyReference.cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\LastG\GymAAY\bin\Debug\Music\al.wav
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\bin\Debug\GymAAY.exe.config
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\GymAAY.exe
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\GymAAY.pdb
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\bin\Debug\Music\al.wav
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\bin\Debug\Music\wind-1.wav
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\bin\Debug\Music\Paganini.wav
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\bin\Debug\GymAAY.exe
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\bin\Debug\GymAAY.pdb
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\GymAAY.csprojResolveAssemblyReference.cache
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\MainWindow.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\bar.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\bikePage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\cafeMenuPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\cafePage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\controlPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\elevatorPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\gymGuestPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\gymMemberLogin.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\gymMemberRegister.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\instrumentsPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\pinakasPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\poolLogin.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\poolLoginLogin.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\poolPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\poolRegister.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\receptionMemberPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\receptionPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\runningPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\startPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\tablesPage.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\App.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\GymAAY_Content.g.cs
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\GymAAY_MarkupCompile.cache
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\GymAAY_MarkupCompile.lref
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\App.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\MainWindow.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\bar.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\bikePage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\cafeMenuPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\cafePage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\controlPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\elevatorPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\gymGuestPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\gymMemberLogin.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\gymMemberRegister.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\instrumentsPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\pinakasPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\poolLogin.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\poolLoginLogin.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\poolPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\poolRegister.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\receptionMemberPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\receptionPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\runningPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\startPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\Pages\tablesPage.baml
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\GymAAY.g.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\GymAAY.Properties.Resources.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\oct6\GymAAY\obj\Debug\GymAAY.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\bin\Debug\GymAAY.exe.config
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\bin\Debug\Music\al.wav
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\bin\Debug\Music\wind-1.wav
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\bin\Debug\Music\Paganini.wav
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\bin\Debug\GymAAY.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\bin\Debug\GymAAY.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\GymAAY.csprojResolveAssemblyReference.cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\MainWindow.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\bar.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\bikePage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\cafeMenuPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\cafePage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\controlPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\elevatorPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\gymGuestPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\gymMemberLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\gymMemberRegister.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\instrumentsPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\pinakasPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\poolLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\poolLoginLogin.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\poolPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\poolRegister.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\receptionMemberPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\receptionPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\runningPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\startPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\tablesPage.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\App.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\GymAAY_Content.g.cs
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\GymAAY_MarkupCompile.cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\GymAAY_MarkupCompile.lref
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\App.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\MainWindow.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\bar.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\bikePage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\cafeMenuPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\cafePage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\controlPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\elevatorPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\gymGuestPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\gymMemberLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\gymMemberRegister.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\instrumentsPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\pinakasPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\poolLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\poolLoginLogin.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\poolPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\poolRegister.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\receptionMemberPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\receptionPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\runningPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\startPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\Pages\tablesPage.baml
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\GymAAY.g.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\GymAAY.Properties.Resources.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\VirvouLast\GymAAY\obj\Debug\GymAAY.csproj.GenerateResource.Cache

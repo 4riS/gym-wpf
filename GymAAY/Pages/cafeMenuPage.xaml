@@ -1,0 +1,41 @@
+﻿<Page x:Class="GymAAY.Pages.cafeMenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GymAAY.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="755"
+      Title="cafeMenuPage">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="../Images/cafeBg.jpg"/>
+        </Grid.Background>
+        <Button ToolTip="Πατήστε για να κλείσετε την εφαρμογή" BorderThickness="0" Height="40" x:Name="button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="41" Margin="698,14,0,0" Style="{StaticResource MyButton}" Click="button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/closeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Μάθετε πληροφορίες για τους δημιουργούς της εφαρμογής" BorderThickness="0" x:Name="button1" HorizontalAlignment="Left" Height="40" Margin="609,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button1_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/infoButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Πατήστε για να ανοίξετε την βοήθεια" BorderThickness="0" x:Name="button2" HorizontalAlignment="Left" Height="40" Margin="565,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button2_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/helpButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Ελαχιστοποίηση εφαρμογής" BorderThickness="0" x:Name="button3" HorizontalAlignment="Left" Height="40" Margin="654,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button3_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/minimizeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="image" Source="../Images/waitress.png" HorizontalAlignment="Left" Height="380" Margin="176,152,0,0" VerticalAlignment="Top" Width="132"/>
+        <Image x:Name="image1" Source="../Images/dialogBg.png" HorizontalAlignment="Left" Height="84" Margin="130,68,0,0" VerticalAlignment="Top" Width="227"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="148,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top">Ωραία, μπορείτε να δείτε το μενού<LineBreak/>Αυτή την ώρα θα σας προτείναμε<LineBreak/>ένα σνακ και ένα χυμό πορτοκάλι.</TextBlock>
+        <Button ToolTip="Συνεχίζεις στην επόμενη σελίδα να παραγγείλεις" x:Name="button4" Visibility="Visible" Content="Πολύ ωραία" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="406,219,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button4_Click"/>
+        <Button ToolTip="Άλλαγή γνώμης και επιστροφή στο ασανσέρ" x:Name="button5" Visibility="Visible" Content="Θέλω να πάω πίσω !" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="406,285,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button5_Click"/>
+    </Grid>
+</Page>

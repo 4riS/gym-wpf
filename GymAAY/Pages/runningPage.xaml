@@ -1,0 +1,75 @@
+﻿<Page x:Class="GymAAY.Pages.runningPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GymAAY.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="755"
+      Title="runningPage">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="../Images/gymGuestBg.jpg"/>
+        </Grid.Background>
+        <Button ToolTip="Πατήστε για να κλείσετε την εφαρμογή" BorderThickness="0" Height="40" x:Name="buttonclose" HorizontalAlignment="Left" VerticalAlignment="Top" Width="41" Margin="698,14,0,0" Style="{StaticResource MyButton}" Click="button_close">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/closeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Μάθετε πληροφορίες για τους δημιουργούς της εφαρμογής" BorderThickness="0" x:Name="buttoninfo" HorizontalAlignment="Left" Height="40" Margin="609,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="buttoninfo_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/infoButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Πατήστε για να ανοίξετε την βοήθεια" BorderThickness="0" x:Name="buttonhelp" HorizontalAlignment="Left" Height="40" Margin="565,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="buttonhelp_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/helpButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Ελαχιστοποίηση εφαρμογής" BorderThickness="0" x:Name="buttonmin" HorizontalAlignment="Left" Height="40" Margin="654,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button_min">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/minimizeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="image3" Source="../Images/runInst.png" HorizontalAlignment="Left" Height="795" Margin="61,138,0,-383" VerticalAlignment="Top" Width="624"/>
+
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="26" Margin="321,207,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="38" Background="#FFA61111"/>
+        <Button ToolTip="Υπολογισμός bps" x:Name="button" Content="Υπολογισμός" HorizontalAlignment="Left" Margin="401,207,0,0" VerticalAlignment="Top" Width="78" Click="button_Click" Height="26"/>
+        <Label x:Name="label1" Content="0" HorizontalAlignment="Left" Margin="437,238,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.359,-0.344" Width="36" Height="23" Background="Gray" FontWeight="Bold"/>
+        <Label x:Name="label3" Content="Ύψος :" HorizontalAlignment="Left" Margin="276,207,0,0" VerticalAlignment="Top" Foreground="White" RenderTransformOrigin="-0.053,-0.395"/>
+        <Label x:Name="label5" Content="00.0" HorizontalAlignment="Left" Margin="364,207,0,0" VerticalAlignment="Top" Background="#FFFB4545"/>
+        <Button ToolTip="Έναρξη τρεξίματος" x:Name="button1" BorderThickness="0" HorizontalAlignment="Left" Margin="332,389,0,0" VerticalAlignment="Top" Width="40" Click="button1_Click" Height="40" RenderTransformOrigin="-7.98,-2.286" Style="{StaticResource MyButton}">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/startInst.png" />
+            </Button.Background>
+        </Button>
+        <Label x:Name="label7" HorizontalAlignment="Left" Margin="341,238,0,0" VerticalAlignment="Top" Background="#FFB22525" RenderTransformOrigin="2.091,3.35" Height="23" Width="85">
+        </Label>
+        <Button ToolTip="Σταμάτημα τρεξίματος" x:Name="button2" BorderThickness="0" HorizontalAlignment="Left" Margin="377,389,0,0" VerticalAlignment="Top" Width="40" Click="button2_Click" Height="40" Style="{StaticResource MyButton}">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/stopInst.png" />
+            </Button.Background>
+        </Button>
+        <Button x:Name="button3" Content="Experienced" Visibility="Collapsed"  HorizontalAlignment="Left" Margin="143,94,0,0" VerticalAlignment="Top" Width="75" Click="button3_Click"/>
+        <Button x:Name="button4" Content="Beginner" Visibility="Collapsed" HorizontalAlignment="Left" Margin="143,94,0,0" VerticalAlignment="Top" Width="75" Click="button4_Click"/>
+        <Button ToolTip="Δες την διατροφή σου" x:Name="button5" Content="Διατροφή" Visibility ="Visible" HorizontalAlignment="Left" Margin="381,293,0,0" VerticalAlignment="Top" Width="75" Click="button5_Click"/>
+        <Label x:Name="label8" Content="" HorizontalAlignment="Left" Margin="237,34,0,0" VerticalAlignment="Top" Height="27" Width="146"/>
+        <Button ToolTip="Ανέβασε την ένταση" x:Name="button6" HorizontalAlignment="Left" BorderThickness="0" Margin="264,413,0,0" VerticalAlignment="Top" Width="20" Height="20" Click="button6_Click" Style="{StaticResource MyButton}">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/upRunning.png" />
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Κατεβάστε την ένταση" x:Name="button7" BorderThickness="0" HorizontalAlignment="Left" Margin="468,415,0,0" VerticalAlignment="Top" Width="20" Height="20" Click="button7_Click" Style="{StaticResource MyButton}">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/downRunning.png" />
+            </Button.Background>
+        </Button>
+        <Image x:Name="image" Visibility="Collapsed" Source="../Images/beginner.jpg" HorizontalAlignment="Left" Margin="309,110,0,0" VerticalAlignment="Top" Width="133" Height="100"/>
+        <Image x:Name="image1" Visibility="Collapsed" Source="../Images/advanced.jpg" HorizontalAlignment="Left" Margin="309,110,0,0" VerticalAlignment="Top" Width="133" Height="100"/>
+        <Button ToolTip="Πίσω" x:Name="button8" Content="Πίσω" HorizontalAlignment="Left" Margin="295,293,0,0" VerticalAlignment="Top" Width="64" Click="button8_Click"/>
+        <Image x:Name="image2" Visibility="Collapsed"  Source="../Images/nutri.jpg" HorizontalAlignment="Left" Height="151" Margin="298,110,0,0" VerticalAlignment="Top" Width="175"/>
+        <Button x:Name="button17" Visibility="Visible" Content="Επιστροφή" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="588,480,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button17_Click" />
+
+    </Grid>
+</Page>

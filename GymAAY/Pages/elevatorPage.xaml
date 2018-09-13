@@ -1,0 +1,76 @@
+﻿<Page x:Class="GymAAY.Pages.elevatorPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GymAAY.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="755"
+      Title="elevatorPage">
+    <Page.Resources>
+        <Storyboard x:Key="fadeInWm">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="textBlock">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource fadeInWm}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="../Images/elevatorBg.jpg"/>
+        </Grid.Background>
+        <Button ToolTip="Πατήστε για να κλείσετε την εφαρμογή" BorderThickness="0" Height="40" x:Name="button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="41" Margin="698,14,0,0" Style="{StaticResource MyButton}" Click="button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/closeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Μάθετε πληροφορίες για τους δημιουργούς της εφαρμογής" BorderThickness="0" x:Name="button1" HorizontalAlignment="Left" Height="40" Margin="609,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button1_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/infoButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Πατήστε για να ανοίξετε την βοήθεια" BorderThickness="0" x:Name="button2" HorizontalAlignment="Left" Height="40" Margin="565,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button2_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/helpButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Ελαχιστοποίηση εφαρμογής" BorderThickness="0" x:Name="button3" HorizontalAlignment="Left" Height="40" Margin="654,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button3_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/minimizeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="image" Source="../Images/womanElevator.png" HorizontalAlignment="Left" Height="400" Margin="144,123,0,0" VerticalAlignment="Top" Width="150"/>
+        <Image x:Name="image1" Source="../Images/dialogBg.png" HorizontalAlignment="Left" Height="84" Margin="72,39,0,0" VerticalAlignment="Top" Width="222"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="93,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top">Που θέλετε να πάτε ;<LineBreak/>1o όροφο στο εστιατόριο - καφέ<LineBreak/>2ο όροφο στο γυμναστήριο<LineBreak/>3ο όροφο στην πισίνα</TextBlock>
+        <Button ToolTip="Πρώτος όροφος στο καφέ εστιατόριο" x:Name="button4" Height="60" HorizontalAlignment="Left" Margin="587,173,0,0" VerticalAlignment="Top" Width="60" Style="{StaticResource MyButton}" Click="button4_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/firstElv.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Δεύτερος όροφος στο γυμναστήριο" x:Name="button5" HorizontalAlignment="Left" Margin="579,234,0,0" VerticalAlignment="Top" Width="60" Height="60" Style="{StaticResource MyButton}" Click="button5_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/secondElv.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Τρίτος όροφος στην πισίνα" x:Name="button6" HorizontalAlignment="Left" Margin="569,296,0,0" VerticalAlignment="Top" Width="60" Height="60" Style="{StaticResource MyButton}" Click="button6_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/thirdElv.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Επιστροφή στην ρεσεψιον" x:Name="button7" Visibility="Visible" Content="Επιστροφή" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="565,470,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button7_Click" />
+    </Grid>
+</Page>

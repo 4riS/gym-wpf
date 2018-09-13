@@ -1,0 +1,71 @@
+﻿<Page x:Class="GymAAY.Pages.cafePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GymAAY.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="755"
+      Title="cafePage">
+    <Page.Resources>
+        <Storyboard x:Key="OpS">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="textBlock">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="button4">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="button5">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource OpS}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="../Images/cafeBg.jpg"/>
+        </Grid.Background>
+        <Button ToolTip="Πατήστε για να κλείσετε την εφαρμογή" BorderThickness="0" Height="40" x:Name="button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="41" Margin="698,14,0,0" Style="{StaticResource MyButton}" Click="button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/closeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Μάθετε πληροφορίες για τους δημιουργούς της εφαρμογής" BorderThickness="0" x:Name="button1" HorizontalAlignment="Left" Height="40" Margin="609,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button1_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/infoButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Πατήστε για να ανοίξετε την βοήθεια" BorderThickness="0" x:Name="button2" HorizontalAlignment="Left" Height="40" Margin="565,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button2_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/helpButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Ελαχιστοποίηση εφαρμογής" BorderThickness="0" x:Name="button3" HorizontalAlignment="Left" Height="40" Margin="654,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button3_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/minimizeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="image" Source="../Images/waitress.png" HorizontalAlignment="Left" Height="380" Margin="248,170,0,0" VerticalAlignment="Top" Width="132"/>
+        <Image x:Name="image1" Source="/GymAAY;component/Images/dialogBg.png" HorizontalAlignment="Left" Height="84" Margin="202,86,0,0" VerticalAlignment="Top" Width="227"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="222,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top">Γεια σας, καλώς ήρθατε στο καφέ<LineBreak/>του γυμναστηρίου. Πως θα<LineBreak/>μπορούσα να σας εξυπηρετήσω ;</TextBlock>
+        <Button ToolTip="Πηγαίνεις στην επόμενη σελίδα για να παραγγείλεις" x:Name="button4" Visibility="Visible" Content="Θέλω να παραγγείλω" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="429,123,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button4_Click"/>
+        <Button ToolTip="Θέλω να πάω πίσω στο ασανσέρ" x:Name="button5" Visibility="Visible" Content="Θέλω να πάω πίσω !" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="429,170,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button5_Click"/>
+
+    </Grid>
+</Page>

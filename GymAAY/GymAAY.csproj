@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E8B69009-C78B-4B7B-A6F5-8F266B39204F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GymAAY</RootNamespace>
+    <AssemblyName>GymAAY</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Pages\bar.xaml.cs">
+      <DependentUpon>bar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\cafeMenuPage.xaml.cs">
+      <DependentUpon>cafeMenuPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\controlPage.xaml.cs">
+      <DependentUpon>controlPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\pinakasPage.xaml.cs">
+      <DependentUpon>pinakasPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\poolLogin.xaml.cs">
+      <DependentUpon>poolLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\poolLoginLogin.xaml.cs">
+      <DependentUpon>poolLoginLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\poolRegister.xaml.cs">
+      <DependentUpon>poolRegister.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\tablesPage.xaml.cs">
+      <DependentUpon>tablesPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="var.cs" />
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Pages\bar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\bikePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\cafeMenuPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\cafePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\controlPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\elevatorPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\gymGuestPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\gymMemberLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\gymMemberRegister.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\instrumentsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\pinakasPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\poolLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\poolLoginLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\poolPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\poolRegister.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\receptionMemberPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\receptionPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\runningPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\startPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\tablesPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pages\bikePage.xaml.cs">
+      <DependentUpon>bikePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\cafePage.xaml.cs">
+      <DependentUpon>cafePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\elevatorPage.xaml.cs">
+      <DependentUpon>elevatorPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\gymGuestPage.xaml.cs">
+      <DependentUpon>gymGuestPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\gymMemberLogin.xaml.cs">
+      <DependentUpon>gymMemberLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\gymMemberRegister.xaml.cs">
+      <DependentUpon>gymMemberRegister.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\instrumentsPage.xaml.cs">
+      <DependentUpon>instrumentsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\poolPage.xaml.cs">
+      <DependentUpon>poolPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\receptionMemberPage.xaml.cs">
+      <DependentUpon>receptionMemberPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\receptionPage.xaml.cs">
+      <DependentUpon>receptionPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\runningPage.xaml.cs">
+      <DependentUpon>runningPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\startPage.xaml.cs">
+      <DependentUpon>startPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainBg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\closeButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\infoButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\helpButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\minimizeButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\playButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\receptionBg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\receptionWoman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\dialogBg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttonVisitor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttonMember.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\monitor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\elevatorBg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\womanElevator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\firstElv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\secondElv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\thirdElv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\gymGuestBg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\trainerMn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\okButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\cancelButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\gymLRBg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\trainerMnSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\inst_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\trdm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\bc_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\bike.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\startInst.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\stopInst.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\runInst.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\advanced.jpg" />
+    <Resource Include="Images\beginner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\nutri.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\poolBg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\cafeBg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\waitress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\bar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\instrumentsBg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\tables.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\control.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Thermometre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\pool_water.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\alarm_pool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\pinakas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\pinakasBg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\gymCome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ladderPool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\offButton.png" />
+    <Resource Include="Images\onButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\dialogMiniBg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttonEmployee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\downRunning.png" />
+    <Resource Include="Images\upRunning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\tv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\radio.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\lamp.png" />
+    <Resource Include="Images\lamp_on.png" />
+    <Content Include="Music\al.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Music\wind-1.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\air-con.png" />
+    <Content Include="Music\Paganini.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

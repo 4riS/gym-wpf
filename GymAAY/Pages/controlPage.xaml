@@ -1,0 +1,82 @@
+﻿<Page x:Class="GymAAY.Pages.controlPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GymAAY.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="755"
+      Title="controlPage">
+
+    <Grid Loaded="Grid_Loaded">
+        <Grid.Background>
+            <ImageBrush ImageSource="../Images/control.jpg"/>
+        </Grid.Background>
+        <Button ToolTip="Πατήστε για να κλείσετε την εφαρμογή" BorderThickness="0" Height="40" x:Name="button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="41" Margin="698,14,0,0" Style="{StaticResource MyButton}" Click="button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/closeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Μάθετε πληροφορίες για τους δημιουργούς της εφαρμογής" BorderThickness="0" x:Name="button1" HorizontalAlignment="Left" Height="40" Margin="609,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button1_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/infoButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Πατήστε για να ανοίξετε την βοήθεια" BorderThickness="0" x:Name="button2" HorizontalAlignment="Left" Height="40" Margin="565,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button2_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/helpButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Ελαχιστοποίηση εφαρμογής" BorderThickness="0" x:Name="button3" HorizontalAlignment="Left" Height="40" Margin="654,14,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button3_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/minimizeButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="button5" Visibility="Visible" Content="Επιστροφή" HorizontalAlignment="Left" BorderBrush="Black" Height="35" Margin="578,465,0,0" VerticalAlignment="Top" Width="145" Style="{StaticResource optionButton}" RenderTransformOrigin="0.5,0.5" Background="White" Click="button5_Click" />
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="117,112,0,0" TextWrapping="Wrap" Text="Πίνακας Ελέγχου Υπαλλήλου" VerticalAlignment="Top" Foreground="White" FontSize="16"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="117,171,0,0" TextWrapping="Wrap" Text="Φώτα Γυμναστηρίου" VerticalAlignment="Top" Foreground="White"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="118,214,0,0" TextWrapping="Wrap" Text="Κλιματισμός" VerticalAlignment="Top" Foreground="White"/>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Margin="117,260,0,0" TextWrapping="Wrap" Text="Τηλεόραση" VerticalAlignment="Top" Foreground="White"/>
+        <TextBlock x:Name="textBlock6" HorizontalAlignment="Left" Margin="118,302,0,0" TextWrapping="Wrap" Text="Ράδιο" VerticalAlignment="Top" Foreground="White"/>
+        <Button ToolTip="Ανοιχτά Φώτα Γυμναστηρίου" Visibility="Visible" BorderThickness="0" x:Name="button4" HorizontalAlignment="Left" Height="40" Margin="248,158,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button4_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/onButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Κλειστά Φώτα Γυμναστηρίου" Visibility="Visible" BorderThickness="0" x:Name="button6" HorizontalAlignment="Left" Height="40" Margin="248,158,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button6_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/offButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Ανοιχτός Κλιματισμός" Visibility="Visible" BorderThickness="0" x:Name="button7" HorizontalAlignment="Left" Height="40" Margin="248,203,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button7_Click" RenderTransformOrigin="-1.5,1.7">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/onButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Κλειστός Κλιματισμός" Visibility="Visible" BorderThickness="0" x:Name="button8" HorizontalAlignment="Left" Height="40" Margin="248,203,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button8_Click" RenderTransformOrigin="0.5,1.583">
+            <Button.Background>
+                <ImageBrush ImageSource="/GymAAY;component/Images/offButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Ανοιχτή Τηλεόραση" Visibility="Visible" BorderThickness="0" x:Name="button9" HorizontalAlignment="Left" Height="40" Margin="248,243,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button9_Click" RenderTransformOrigin="-1.5,1.7">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/onButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Κλειστή Τηλεόραση" Visibility="Visible" BorderThickness="0" x:Name="button10" HorizontalAlignment="Left" Height="40" Margin="248,243,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button10_Click" RenderTransformOrigin="0.5,1.583">
+            <Button.Background>
+                <ImageBrush ImageSource="/GymAAY;component/Images/offButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Ανοιχτό Ράδιο" Visibility="Visible" BorderThickness="0" x:Name="button11" HorizontalAlignment="Left" Height="40" Margin="248,288,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button11_Click" RenderTransformOrigin="-1.5,1.7">
+            <Button.Background>
+                <ImageBrush ImageSource="../Images/onButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button ToolTip="Κλειστό Ράδιο" Visibility="Visible" BorderThickness="0" x:Name="button12" HorizontalAlignment="Left" Height="40" Margin="248,288,0,0" VerticalAlignment="Top" Width="40" Style="{StaticResource MyButton}" Click="button12_Click" RenderTransformOrigin="0.5,1.583">
+            <Button.Background>
+                <ImageBrush ImageSource="/GymAAY;component/Images/offButton.png"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Page>
